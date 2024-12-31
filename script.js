@@ -1,5 +1,5 @@
 
-alert("hello");
+
 var random=Math.random();
 random = (random*6);
 random=Math.floor(random)+1;
